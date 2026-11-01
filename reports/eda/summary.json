@@ -1,0 +1,46 @@
+{
+  "ionych": {
+    "chapters": 5,
+    "characters": 33760,
+    "words": 5365,
+    "paragraphs": 162,
+    "replacement_characters": 0,
+    "paragraphs_over_4000_chars": 0,
+    "dialogue_paragraphs": 63,
+    "duplicate_paragraph_occurrences": 1,
+    "min_chapter_chars": 2770,
+    "max_chapter_chars": 9801,
+    "exact_surface_counts_not_entities": {
+      "Старцев": 34,
+      "Дмитрий Ионыч": 6,
+      "Ионыч": 7,
+      "Котик": 11,
+      "Екатерина Ивановна": 18
+    },
+    "gold_characters": 0,
+    "gold_relations": 0,
+    "gold_questions": 0
+  },
+  "crime": {
+    "chapters": 41,
+    "characters": 1078514,
+    "words": 169750,
+    "paragraphs": 3760,
+    "replacement_characters": 0,
+    "paragraphs_over_4000_chars": 13,
+    "dialogue_paragraphs": 2588,
+    "duplicate_paragraph_occurrences": 9,
+    "min_chapter_chars": 15068,
+    "max_chapter_chars": 41502,
+    "exact_surface_counts_not_entities": {
+      "Раскольников": 567,
+      "Родион": 90,
+      "Родя": 103,
+      "Соня": 268,
+      "Софья Семеновна": 38
+    },
+    "gold_characters": 0,
+    "gold_relations": 0,
+    "gold_questions": 0
+  }
+}

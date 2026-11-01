@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="355" viewBox="0 0 900 355">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="sans-serif" font-size="13" fill="#17324d">
+<text x="20" y="25">Exact surface forms (not entity counts)</text>
+<text x="12" y="64">ionych: Старцев</text>
+<rect x="300" y="50" width="29.98" height="19" fill="#42858c"/>
+<text x="339.98" y="64">34</text>
+<text x="12" y="92">ionych: Дмитрий Ионыч</text>
+<rect x="300" y="78" width="5.29" height="19" fill="#42858c"/>
+<text x="315.29" y="92">6</text>
+<text x="12" y="120">ionych: Ионыч</text>
+<rect x="300" y="106" width="6.17" height="19" fill="#42858c"/>
+<text x="316.17" y="120">7</text>
+<text x="12" y="148">ionych: Котик</text>
+<rect x="300" y="134" width="9.70" height="19" fill="#42858c"/>
+<text x="319.70" y="148">11</text>
+<text x="12" y="176">ionych: Екатерина Ивановна</text>
+<rect x="300" y="162" width="15.87" height="19" fill="#42858c"/>
+<text x="325.87" y="176">18</text>
+<text x="12" y="204">crime: Раскольников</text>
+<rect x="300" y="190" width="500.00" height="19" fill="#42858c"/>
+<text x="810.00" y="204">567</text>
+<text x="12" y="232">crime: Родион</text>
+<rect x="300" y="218" width="79.37" height="19" fill="#42858c"/>
+<text x="389.37" y="232">90</text>
+<text x="12" y="260">crime: Родя</text>
+<rect x="300" y="246" width="90.83" height="19" fill="#42858c"/>
+<text x="400.83" y="260">103</text>
+<text x="12" y="288">crime: Соня</text>
+<rect x="300" y="274" width="236.33" height="19" fill="#42858c"/>
+<text x="546.33" y="288">268</text>
+<text x="12" y="316">crime: Софья Семеновна</text>
+<rect x="300" y="302" width="33.51" height="19" fill="#42858c"/>
+<text x="343.51" y="316">38</text>
+</g></svg>
