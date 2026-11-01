@@ -7,3 +7,7 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+
+data/raw/
+.matplotlib/
+.venv-eda/

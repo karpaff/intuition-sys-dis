@@ -1,0 +1,20 @@
+{
+  "ionych": {
+    "mentions": 177,
+    "comparison_keys": 35,
+    "reference_persons_found": 8,
+    "reference_persons": 8,
+    "single_occurrence_surface_forms": 30,
+    "confirmed_additions_excluding_dream": 1,
+    "additional_dream_characters": 0
+  },
+  "crime": {
+    "mentions": 4571,
+    "comparison_keys": 488,
+    "reference_persons_found": 28,
+    "reference_persons": 28,
+    "single_occurrence_surface_forms": 412,
+    "confirmed_additions_excluding_dream": 16,
+    "additional_dream_characters": 1
+  }
+}

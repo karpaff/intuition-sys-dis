@@ -1,0 +1,239 @@
+{
+  "natasha": "1.6.0",
+  "pymorphy3": "2.0.6",
+  "model": "NewsEmbedding + NewsNERTagger (Natasha bundled)",
+  "production_reference_commit": "2d3ee3d4f1e8e86dc4c0bb09addf2449a5b8efdc",
+  "production_parity": "PER extraction only; no count>=2 filter or LLM alias merge",
+  "chapters": [
+    {
+      "book_id": "ionych",
+      "chapter_order": 1,
+      "sha256_text": "11cfb193e6543d856c2370b35e8db40b20e5b24c6b9445b02bf45b216ffd9e58"
+    },
+    {
+      "book_id": "ionych",
+      "chapter_order": 2,
+      "sha256_text": "094c4e0875398cfdb24d4e99dde68dd07c175d7e686406f2d39de4959d31dc31"
+    },
+    {
+      "book_id": "ionych",
+      "chapter_order": 3,
+      "sha256_text": "9a8a684c8ecc9078234e2dc3d3d40f4d44a4fc6a055f2749ded5fe7dfe1ecf4b"
+    },
+    {
+      "book_id": "ionych",
+      "chapter_order": 4,
+      "sha256_text": "af11b4e9d4ab3c4b15b3aa1ce9571eb02067f77475f001ce17de70ae114226f1"
+    },
+    {
+      "book_id": "ionych",
+      "chapter_order": 5,
+      "sha256_text": "2891d0c6cd7f192cd174fc2438e53d75530ee57aeea90d1d8f73bec1888a0840"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 1,
+      "sha256_text": "365c001128ced46ff352281ad8f8d45d23b6719b56ae7ea9e9388d64667d4cb1"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 2,
+      "sha256_text": "653b5405aa544641bc6a909f969d4abe1c6e5202d79e16cd14c1490de26115bb"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 3,
+      "sha256_text": "b7461c67a425469424c76beec98a00bb06b230fdfec84bb658d4735924bf922f"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 4,
+      "sha256_text": "3eb9fb7bf1e3ba4d28a076ae3bb08ea594700b2b47eb8bb85683a150d671feb9"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 5,
+      "sha256_text": "0d411e0d67e469f690d96f92eef8ea7c8a6171b739207c854b8a4329fdbbd31d"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 6,
+      "sha256_text": "7c060a446988bf85065f5e0fc56372be750fa27b1413775b86e83cf324a48803"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 7,
+      "sha256_text": "e3ee64912c7e2ef7b768e838ce3d56fe07045d664e3b3a6e6aae098133835425"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 8,
+      "sha256_text": "54c62fabfbcd6a7581838f149689fc6f20c58a10df349e985ca2f070e3dad4ed"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 9,
+      "sha256_text": "795953670bfe7ee72d13101c6c8a2474af690f78a2900ca019e8fa81b2161362"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 10,
+      "sha256_text": "dada845e0d7e088a77653e2d6a101cfcf332f28c315689302a3a4dbea155c759"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 11,
+      "sha256_text": "39c176dbada87e04c6b8e23fa397cb8a77219f1c86441b63553c46081fafe77e"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 12,
+      "sha256_text": "a7c27123a77da5b4e59ae74d448bc3426764bc485719cd126642b625539fc150"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 13,
+      "sha256_text": "98d3213267a941b2b252f8511fc42a262d01ef56ffaebec2030c5d7202a6c4e5"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 14,
+      "sha256_text": "f435c412259db889cf23156f2653c04b593685da52f060a69cff6af2860ea3c5"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 15,
+      "sha256_text": "ac504f32ee1451c89a042f8aec1e81119a9f58c3617d368427f131c57341aecc"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 16,
+      "sha256_text": "a17dcb2e48a3cde85d4a72bb336f87e5c015ef879c3c3a0fc63a87296c324507"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 17,
+      "sha256_text": "9fe10d1d095ce3d05ca50a4d12cbcfabf67f71818b0f5f60d36cfc48f997d034"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 18,
+      "sha256_text": "3dc6987ecdb56f2a14d2683208dc5387c3549482a164b133709472bed61fc6bc"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 19,
+      "sha256_text": "680980d1293c912023f82dfde761da0e481352ac3ee1944870862e6d6bd880c7"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 20,
+      "sha256_text": "c009329394966e250cfa02820680b333fdb1841937d9a43184ab19bbc2391e72"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 21,
+      "sha256_text": "662e0db353b331134fb8db40166edf92545d313eb13b2277806a3d9e3721e0ee"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 22,
+      "sha256_text": "1879178ceacdfe4e7c28bd7095475ca4069c2b1b28385dc98d7b70d94f08ab34"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 23,
+      "sha256_text": "14c32f425cd02ac06674d9ada467b90c708b45f0d3a54c0859812b037dad2571"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 24,
+      "sha256_text": "c865901152539e998d37a859554db4d7cabb8098afee95bf1c6ba502deb24c8e"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 25,
+      "sha256_text": "8a5214be080712122640b5ba8a0790ea700b2e9e76785b941c8f60dd7fca883e"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 26,
+      "sha256_text": "ff2b948b42da797a6aa4f600a41a03903d016e885f9a6b5e399227bb1e33d5ee"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 27,
+      "sha256_text": "bdb4256877554468dd6c695660cd5491700e41c914a06bcc8d8124e081623bbe"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 28,
+      "sha256_text": "a3ea927fe2bc54d422a98f46f947fe567165cd13a8e04d3313a8935bf2ac4e78"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 29,
+      "sha256_text": "d5cb08935c2ba6cbb15c0ee789ff4d403c7f8aa7155ecc824f0216c0ed0b9f09"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 30,
+      "sha256_text": "865a132e4431bc8ff193287f5e1f54ab5a9974821e8be0d88e0017c8727d1755"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 31,
+      "sha256_text": "9f01751a75e473a54ba265d15a07f2dc17ad8023169fad856de3811b843e406a"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 32,
+      "sha256_text": "8cee98e5d4b2b6ea2f6243fe2e17631767963bcff1c580cf3d32fe1005ab413a"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 33,
+      "sha256_text": "83e5010c4562f6b8c68fb01f154044ae6f9cb4e3cddfb288112cd6063a3f8c27"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 34,
+      "sha256_text": "58528ed156057453e773fe45a503f978a19fffd8328ca26df86b4b25897936c1"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 35,
+      "sha256_text": "e45c6d74784dba31e8974dc7e87de5a11a8fd5458e88d95e425e89153ebd08c8"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 36,
+      "sha256_text": "ae0097f333773fb3777b2de924ec75ea050a45dad25e4e0d5dac6d4a1addef85"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 37,
+      "sha256_text": "3d118374dcc7418e0b2c9beb87d144fe2e9fee575cb53576fe913b485ab0f4fe"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 38,
+      "sha256_text": "a1eba19ec634b14eba5cecc9411075f14b38b92f3c11bf356dd0d5917453481b"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 39,
+      "sha256_text": "a5438fb386cc69a05541a5c2483c130dfb69c9fe5b5c1d1fbe9e39fe66faa20a"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 40,
+      "sha256_text": "e5e387626a361070d6a5a01738cd299a6a48d14818ded8065535186d08a694f4"
+    },
+    {
+      "book_id": "crime",
+      "chapter_order": 41,
+      "sha256_text": "104b247b191696279956903ad27ad36ae3068a88fe7f09af0cf202311cad9b5e"
+    }
+  ]
+}
