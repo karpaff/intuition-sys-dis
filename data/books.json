@@ -1,0 +1,16 @@
+{
+  "ionych": {
+    "title": "Ионыч",
+    "source_page": "https://entitysearch-books.s3.yandex.net/176173.epub",
+    "download_url": "https://entitysearch-books.s3.yandex.net/176173.epub",
+    "source_note": "Яндекс Книги: ссылка на бесплатно распространяемый EPUB предоставлена владельцем проекта.",
+    "expected_chapters": 5
+  },
+  "crime": {
+    "title": "Преступление и наказание",
+    "source_page": "https://entitysearch-books.s3.yandex.net/139491.epub",
+    "download_url": "https://entitysearch-books.s3.yandex.net/139491.epub",
+    "source_note": "Яндекс Книги: ссылка на бесплатно распространяемый EPUB предоставлена владельцем проекта.",
+    "expected_chapters": 41
+  }
+}

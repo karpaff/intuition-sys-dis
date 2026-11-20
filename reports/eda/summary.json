@@ -1,0 +1,24 @@
+{
+  "ionych": {
+    "chapters": 5,
+    "characters": 33700,
+    "paragraphs": 163,
+    "words": 5364,
+    "replacement_characters": 0,
+    "paragraphs_over_4000_chars": 0,
+    "min_chapter_chars": 2780,
+    "max_chapter_chars": 9793,
+    "duplicate_paragraph_occurrences": 2
+  },
+  "crime": {
+    "chapters": 41,
+    "characters": 1074046,
+    "paragraphs": 3770,
+    "words": 169744,
+    "replacement_characters": 0,
+    "paragraphs_over_4000_chars": 12,
+    "min_chapter_chars": 14999,
+    "max_chapter_chars": 41344,
+    "duplicate_paragraph_occurrences": 9
+  }
+}

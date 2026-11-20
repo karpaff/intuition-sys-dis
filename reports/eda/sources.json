@@ -1,0 +1,81 @@
+[
+  {
+    "book": "ionych",
+    "title": "Ионыч",
+    "source_page": "https://entitysearch-books.s3.yandex.net/176173.epub",
+    "download_url": "https://entitysearch-books.s3.yandex.net/176173.epub",
+    "source_note": "Яндекс Книги: ссылка на бесплатно распространяемый EPUB предоставлена владельцем проекта.",
+    "expected_chapters": 5,
+    "sha256_epub": "309cc3c14436b2b6c4ad6aeb7b7a8ea14373be32fdd56305ac631fae413d42d7",
+    "epub_bytes": 1002801,
+    "ncx_entries_including_service": 6,
+    "included_items": [
+      "content0.html",
+      "content1.html",
+      "content2.html",
+      "content3.html"
+    ],
+    "excluded_items": [
+      "cover.xhtml",
+      "contentnotes0.html"
+    ]
+  },
+  {
+    "book": "crime",
+    "title": "Преступление и наказание",
+    "source_page": "https://entitysearch-books.s3.yandex.net/139491.epub",
+    "download_url": "https://entitysearch-books.s3.yandex.net/139491.epub",
+    "source_note": "Яндекс Книги: ссылка на бесплатно распространяемый EPUB предоставлена владельцем проекта.",
+    "expected_chapters": 41,
+    "sha256_epub": "5a78513f23e7c1d115678e6ac788083058d28cd53ffd43a0e3ff5c899cc0b740",
+    "epub_bytes": 2055969,
+    "ncx_entries_including_service": 48,
+    "included_items": [
+      "content0.html",
+      "content1.html",
+      "content2.html",
+      "content3.html",
+      "content4.html",
+      "content5.html",
+      "content6.html",
+      "content7.html",
+      "content8.html",
+      "content9.html",
+      "content10.html",
+      "content11.html",
+      "content12.html",
+      "content13.html",
+      "content14.html",
+      "content15.html",
+      "content16.html",
+      "content17.html",
+      "content18.html",
+      "content19.html",
+      "content20.html",
+      "content21.html",
+      "content22.html",
+      "content23.html",
+      "content24.html",
+      "content25.html",
+      "content26.html",
+      "content27.html",
+      "content28.html",
+      "content29.html",
+      "content30.html",
+      "content31.html",
+      "content32.html",
+      "content33.html",
+      "content34.html",
+      "content35.html",
+      "content36.html",
+      "content37.html",
+      "content38.html",
+      "content39.html",
+      "content40.html"
+    ],
+    "excluded_items": [
+      "cover.xhtml",
+      "contentnotes0.html"
+    ]
+  }
+]

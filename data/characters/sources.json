@@ -1,0 +1,20 @@
+[
+  {
+    "book_id": "ionych",
+    "source_url": "https://www.sdamna5.ru/ionych_harakteristiki",
+    "accessed_date": "2026-11-01",
+    "sha256_raw": "58dba54ceab569dcd7a003790726bc45f44178d7dde68602bb3c6b9ba16300a4",
+    "records": 9,
+    "persons": 8,
+    "groups": 1
+  },
+  {
+    "book_id": "crime",
+    "source_url": "https://www.literaturus.ru/2020/07/geroi-prestuplenie-i-nakazanie-opisanie-personazhi-spisok-tablica.html",
+    "accessed_date": "2026-11-01",
+    "sha256_raw": "ea498f18835a7c73e55e003aa190da4d9de804b749fb1d75d9d40a8fa2ed99ea",
+    "records": 28,
+    "persons": 28,
+    "groups": 0
+  }
+]
